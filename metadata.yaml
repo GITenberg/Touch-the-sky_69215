@@ -1,0 +1,49 @@
+_repo: Touch-the-sky_69215
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Coppel, Alfred
+    aliases:
+    - Gilman, Robert Cham
+    - Marin, A. C.
+    - Coppel, Alfredo José de Arana-Marini
+    - Coppel, Alfredo Jose de Arana-Marini
+    - Galaxan, Sol
+    birthdate: 1921
+    deathdate: 2004
+    gutenberg_agent_id: '25110'
+    url: http://www.gutenberg.org/2009/agents/25110
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Coppel
+description: ''
+gutenberg_issued: '2022-10-23'
+identifiers:
+  gutenberg: '69215'
+language: en
+pgterms:marc905: 20220530042259coppel
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net.
+publication_note: 'United States: Standard Magazines, Inc.,1955.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Space travelers -- Fiction'
+- !lcsh 'Amusement rides -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Touch the sky
+url: http://www.gutenberg.org/ebooks/69215
